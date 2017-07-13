@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9AD84CDF-EC76-434F-86E0-883F3BEF5A8B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JWT_Example/Models/AuthenticateUser.cs">
+    <Files>
+      <File FileName="JWT_Example/Program.cs" Line="21" Column="1" />
+      <File FileName="JWT_Example/Startup.cs" Line="43" Column="73" />
+      <File FileName="JWT_Example/Controllers/TesteController.cs" Line="3" Column="30" />
+      <File FileName="JWT_Example/Controllers/BaseController.cs" Line="2" Column="1" />
+      <File FileName="JWT_Example/Security/TokenOptions.cs" Line="5" Column="11" />
+      <File FileName="JWT_Example/Controllers/AccountController.cs" Line="29" Column="47" />
+      <File FileName="JWT_Example/Models/AuthenticateUser.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.JWT__Example PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
